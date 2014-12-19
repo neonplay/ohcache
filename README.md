@@ -1,6 +1,8 @@
 OhCache
 =======
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neonplay/ohcache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OhCache is a flexible caching library for PHP
 
 [![Latest Stable Version](https://poser.pugx.org/rogerthomas84/ohcache/v/stable.svg)](https://packagist.org/packages/rogerthomas84/ohcache)
